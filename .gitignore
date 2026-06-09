@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+.env.*
+*.key
+*credentials*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Real CRM audit output (keep demo, ignore live runs)
+07_portfolio/03_crm_audit/reports/*
+!07_portfolio/03_crm_audit/reports/demo_audit.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
