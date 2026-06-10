@@ -59,3 +59,19 @@ Track every enrichment run. Watch the number climb.
 | Week | Hours | Focus | What I built |
 |------|-------|-------|-------------|
 | | | | |
+
+---
+
+## Application Funnel (kill-switch: 12 sent / 0 responses = stop & fix)
+
+| Date | Company | Role | Channel (portal/warm) | Response? | Screen? |
+|------|---------|------|----------------------|-----------|---------|
+| | | | | | |
+
+---
+
+## Session Log
+
+| Date | What happened | Next session starts with |
+|------|---------------|--------------------------|
+| 2026-06-10 | Roadmap finalized: fast_track_plan.md rewritten (daily rhythm, 6wk+2flex, apps track, Wk4 Job-Search Engine). Check-in/check-out protocol set. No Clay build work yet. Apps sent: 0 — first 2 due TONIGHT. | Wk1 Mon: read 01_beginner 01–03 + confirm apps 1–2 went out |
