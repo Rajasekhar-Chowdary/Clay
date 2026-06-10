@@ -1,5 +1,11 @@
 # Fast-Track Plan — Senior Data Analyst → GTM Engineer, Clay as the Vehicle
 
+> **RETIRED AS A ROADMAP — 2026-06-10.** The single operating roadmap is
+> `GTM_Mastery/docs/ROADMAP.md` (24-week plan). This folder remains a **build accelerator**:
+> the scripts in `07_portfolio/` (`crm_audit.py`, `analyze_coverage.py`, `personalize.py`)
+> feed GTM_Mastery Phases 2–3 Projects 1–3. Do not run this plan's cadence or tracker in
+> parallel — two roadmaps on a 5–6 hr/week budget is how both fail.
+
 Updated 2026-06-10. Account: **live with credits**. Budget: ~5 hrs/week (6 days × ~50 min).
 Runway: Jun 10 → Aug 29 offer-deadline checkpoint. Sprint: **6 weeks + 2 flex**, done ~Aug 7,
 leaving 3 weeks for application surge + interviews.
